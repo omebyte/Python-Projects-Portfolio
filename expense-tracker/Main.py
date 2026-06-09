@@ -1,1 +1,4 @@
-
+{
+  "income": 0,
+  "expenses": []
+}
