@@ -1,0 +1,6 @@
+num1 = float(input("Please enter your first choice number: "))
+num2 = float(input("Please enter your second choice number: "))
+print("Your first and second number added is ", num1 + num2)
+print("Your first and second number multiplied  is", num1 * num2)
+print("Your second number subtracted from the second is ", num1 - num2)
+print("Your frst number devided by second is ", num1 / num2)
